@@ -16,7 +16,7 @@ It is comprised of 4 modules/tasks:
 
 # My Dashboard on InsideSherpa
 
-My online profile at InsideSherpa can be found [here](https://www.insidesherpa.com/profile/NAtfioN2N9H2tBv8t/Dilay)
+My online profile at InsideSherpa can be found [here](https://www.insidesherpa.com/profile/NAtfioN2N9H2tBv8t/Dilay).
 
 
 # Skills gained and improved:
