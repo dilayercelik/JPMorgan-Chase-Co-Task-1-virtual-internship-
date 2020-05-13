@@ -3,6 +3,7 @@ This repository includes the data files and the patch files related to the tasks
 
 This virtual internship gives the exclusive opportunity to gain insight on the area of software engineering, on JPMorgan Chase frameworks and on the Perspective open source code, a tool created by JPMorgan Chase and providing a set of flexible data transforms.
 
+![JPMorgan Chase&Co](F040BF2F-71CE-42CD-B409-3324B3EE556F.png)
 
 # Modules
 
