@@ -24,13 +24,7 @@ My online profile at InsideSherpa can be found [here](https://www.insidesherpa.c
 
 As stated by the software engineering virtual experience:
 
-Module 1: Financial Data / Python / Git / Basic Programming
-
-Module 2:
-
-Module 3:
-
-Module 4 (Bonus):
+Financial Data / Python / Git / Basic Programming / React / Typescript / Web Applications / Technical Communication / Financial Analysis
 
 
 # Authors
