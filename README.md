@@ -7,7 +7,7 @@ This virtual internship gives the exclusive opportunity to gain insight on the a
 
 # Modules
 
-It is comprised of 4 modules/tasks:
+The virtual internship is comprised of 4 modules/tasks:
 
 1. Interface with a stock price data feed
 2. Use JPMorgan Chase frameworks and tools
